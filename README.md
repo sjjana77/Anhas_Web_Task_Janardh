@@ -9,7 +9,7 @@ Collections: Expenses, Users
 
 <h3>Screenshots:</h3>
 <h4>Dashboard</h4>
-<a target="_blank" href="https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg">Dashoboard</a>
+<img  src="https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg" />
 
 <h4>Add Transaction</h4>
 (https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg)
