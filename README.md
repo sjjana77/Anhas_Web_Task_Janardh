@@ -12,10 +12,10 @@ Collections: Expenses, Users
 <img  src="https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg" />
 
 <h4>Add Transaction</h4>
-(https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg)
+<img  src="https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot2.jpg" />
 
 <h4>Transactions</h4>
-(https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg)
+<img  src="https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot3.jpg" />
 
 <h4>Update Transaction</h4>
-(https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg)
+<img  src="https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot4.jpg" />
