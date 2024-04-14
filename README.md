@@ -6,3 +6,16 @@ I have done in MERN Stack.
 Database/collection data file in backend-app/database/
 Database Name: anhas_web_task
 Collections: Expenses, Users
+
+Screenshots:
+<h4>Dashboard</h4>
+![Dashboard](https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg)
+
+<h4>Add Transaction</h4>
+![Add Transaction](https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg)
+
+<h4>Transactions</h4>
+![Transactions](https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg)
+
+<h4>Update Transaction</h4>
+![Update Transaction](https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg)
