@@ -7,7 +7,7 @@ Database/collection data file in backend-app/database/
 Database Name: anhas_web_task
 Collections: Expenses, Users
 
-Screenshots:
+<h3>Screenshots:</h3>
 <h4>Dashboard</h4>
 [Dashboard](https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg)
 
