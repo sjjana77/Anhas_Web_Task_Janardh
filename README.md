@@ -9,13 +9,13 @@ Collections: Expenses, Users
 
 <h3>Screenshots:</h3>
 <h4>Dashboard</h4>
-[Dashboard](https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg)
+<a target="_blank" href="https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg">Dashoboard</a>
 
 <h4>Add Transaction</h4>
-[Add Transaction](https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg)
+(https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg)
 
 <h4>Transactions</h4>
-[Transactions](https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg)
+(https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg)
 
 <h4>Update Transaction</h4>
-[Update Transaction](https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg)
+(https://raw.githubusercontent.com/sjjana77/Anhas_Web_Task_Janardh/main/screenshots/screenshot1.jpg)
